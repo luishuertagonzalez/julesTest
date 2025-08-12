@@ -1,0 +1,7 @@
+/app/src/main/java/com/example/productcrud/repository/ProductRepository.java
+/app/src/main/java/com/example/productcrud/repository/CategoryRepository.java
+/app/src/main/java/com/example/productcrud/ProductCrudApplication.java
+/app/src/main/java/com/example/productcrud/controller/ProductController.java
+/app/src/main/java/com/example/productcrud/service/ProductService.java
+/app/src/main/java/com/example/productcrud/model/Category.java
+/app/src/main/java/com/example/productcrud/model/Product.java
