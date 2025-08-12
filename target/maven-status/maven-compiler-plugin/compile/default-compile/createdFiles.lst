@@ -1,7 +1,10 @@
 com/example/productcrud/model/Product.class
+com/example/productcrud/service/CategoryServiceImpl.class
 com/example/productcrud/controller/ProductController.class
 com/example/productcrud/ProductCrudApplication.class
 com/example/productcrud/repository/CategoryRepository.class
+com/example/productcrud/service/CategoryService.class
 com/example/productcrud/model/Category.class
 com/example/productcrud/repository/ProductRepository.class
+com/example/productcrud/service/ProductServiceImpl.class
 com/example/productcrud/service/ProductService.class

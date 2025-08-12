@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.productcrud.ProductCrudApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.665 s - in com.example.productcrud.ProductCrudApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.239 s - in com.example.productcrud.ProductCrudApplicationTests

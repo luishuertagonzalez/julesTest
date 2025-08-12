@@ -23,7 +23,7 @@ public class ProductServiceTest {
     private ProductRepository productRepository;
 
     @InjectMocks
-    private ProductService productService;
+    private ProductServiceImpl productService;
 
     private Product product;
     private Category category;

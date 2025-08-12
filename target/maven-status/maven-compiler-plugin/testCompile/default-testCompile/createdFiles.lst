@@ -1,3 +1,4 @@
+com/example/productcrud/controller/ProductControllerTest.class
 com/example/productcrud/service/ProductServiceTest.class
 com/example/productcrud/ProductCrudApplicationTests.class
-com/example/productcrud/controller/ProductControllerTest.class
+com/example/productcrud/service/CategoryServiceTest.class
